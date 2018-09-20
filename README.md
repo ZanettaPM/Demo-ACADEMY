@@ -16,4 +16,4 @@ This thorough methodological development leads to a complete petrological descri
 
 This methodology is expected to have broad applications in Earth and Planetary materials.
 
-To see the demo please click on the "demo.ipynb" file or download the whole file and open it in a jupyter notebook window. 
+### To see the demo please click on the "demo.ipynb" file or download the whole file and open it in a jupyter notebook window. 

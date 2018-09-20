@@ -2,6 +2,8 @@
 
 ## Data analysis and visualisation of a matrice of primitive chondrite
 
+### This is a demo of the data analysis procedures applied in this methodology
+
 See Zanetta et al., 2018
 
 ACADEMY (Analyzing the Composition, the modal Abundance and the Density using Electron MicroscopY) is a methodology developped for the analysis of fine grained material exhibiting sub-micrometric grains. This complete petrological description is based on the combination of the advantages of two conventional and easily accessible techniques (SEM and EPMA) and development of data treatment procedures, in order to improve the characterization of natural samples with fine-grained assemblages. This method aims to produce quantitative chemical maps with improved spatial resolution in combining the EDX spectrum, density and proxy EPMA analysis for each pixel. The method includes the following main steps: 

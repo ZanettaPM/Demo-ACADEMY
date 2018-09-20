@@ -15,3 +15,5 @@ ACADEMY (Analyzing the Composition, the modal Abundance and the Density using El
 This thorough methodological development leads to a complete petrological description of the sample with an improved spatial resolution and permits a better calculation of the bulk composition in volume percent by the combination of the chemistry, the modal mineralogy and the density.
 
 This methodology is expected to have broad applications in Earth and Planetary materials.
+
+To see the demo please click on the "demo.ipynb" file or download the whole file and open it in a jupyter notebook window. 

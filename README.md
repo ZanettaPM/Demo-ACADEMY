@@ -1,4 +1,4 @@
-# ACADEMY: A new methodology for modal abundances, density and bulk composition of fine-grained materials using advanced electron microscopy.
+# ACADEMY: A new methodology for modal abundances, density and bulk composition of micrometer-sized assemblages by advanced electron microscopy: application to chondrites
 
 ## Data analysis of a matrix of primitive chondrite
 
